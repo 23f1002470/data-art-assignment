@@ -1,0 +1,7 @@
+{
+  "prompt": "A haunting, cinematic close-up within a vast, ancient library. Intricate, gold-embossed leather book spines representing world languages are physically disintegrating into fine, pale sand. The sand pours through the wooden shelves like a broken hourglass, burying the floor in high mounds of featureless dust. Deep chiaroscuro lighting with a single warm light beam hitting the falling particles. Hyper-realistic textures of decaying paper, weathered leather, and grit. No text, no charts, no people. 8k resolution, wide-angle perspective.",
+  "model": "Gemini 3 Flash (Nano Banana Pro)",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://unesdoc.unesco.org/ark:/48223/pf0000187026",
+  "insight": "Every two weeks, a language disappears completely, taking with it an entire cultural heritage and unique worldview."
+}
