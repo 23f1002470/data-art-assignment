@@ -4,7 +4,5 @@
   "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
   "dataset_url": "https://unesdoc.unesco.org/ark:/48223/pf0000187026",
   "insight": "Every two weeks, a language disappears completely, taking with it an entire cultural heritage and unique worldview.",
-  "concept": "Language Extinction as an irreversible loss of human data.",
-  "metaphor": "An ancient library acting as an hourglass where the books dissolve into anonymous sand.",
   "publish_email": true
 }
