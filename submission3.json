@@ -1,0 +1,9 @@
+{
+  "prompt": "A 19th-century naturalist’s scientific engraving on aged, heavy cream vellum. The central subject is a detailed topographical study of a deep, undulating mountain basin. Fine, dense cross-hatched copperplate lines define the steepness of the slopes. A sequence of small, hand-painted red ink dots traces a path from a high ridge, spiraling down the steepest contours of the terrain toward a single, deep blue pool at the absolute lowest point. The lighting is flat and analytical. No modern text, but elegant, hand-inked Latin-style botanical labels 'Clivus Gradus' and 'Locus Minimus' at the basin floor. Hand-tinted watercolor washes in sage green and burnt umber. High-resolution textures of fiber-rich paper and ink-bleed.",
+  "model": "Gemini 3 Flash (Nano Banana Pro)",
+  "concept": "Gradient Descent",
+  "tradition_name": "19th-century Naturalist Illustration",
+  "tradition_period": "1830s–1880s",
+  "tradition_approach": "Employed copperplate cross-hatching to define topography and hand-tinted watercolor washes for analytical clarity. The composition mimics a scientific specimen plate, using an iterative path of red points to map the mathematical descent to a local minimum.",
+  "publish_email": true
+}
